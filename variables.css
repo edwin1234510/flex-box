@@ -1,7 +1,11 @@
 :root{
-    --fondo_verde: #32835d;
+    --fondo_verde: #008069;
     --blanco: #fff;
     --camara: #a2d8c8;
     --verde_claro: #41e400;
     --gris: #979797;
+    --negro: #000000;
+    --gris_claro: #bcbbbb;
+    --piel: #f4e4d2;
+    --verde_pastel: #eef8e3;
 }
